@@ -128,7 +128,7 @@ export default {
         </main>
     `,
     data: () => ({
-        list: ["Just DANCE"],
+        list: [],
         editors: [],
         loading: true,
         selected: 0,
